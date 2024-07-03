@@ -1,13 +1,13 @@
 {
     "name": "rfl-designer/webpush",
     "description": "Web Push Notifications driver for Laravel.",
-    "homepage": "https://github.com/rfl-designer/webpush",
+    "homepage": "https://github.com/rfl-designer/webpush/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Cretu Eusebiu",
-            "email": "me@cretueusebiu.com",
-            "homepage": "http://cretueusebiu.com",
+            "name": "rfl-designer",
+            "email": "contato@rfloliveira.com.br",
+            "homepage": "https://github.com/rfl-designer/webpush/",
             "role": "Developer"
         }
     ],
