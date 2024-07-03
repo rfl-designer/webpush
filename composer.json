@@ -3,6 +3,12 @@
     "description": "Web Push Notifications driver for Laravel.",
     "homepage": "https://github.com/rfl-designer/webpush/",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/rfl-designer/webpush"
+        }
+    ],
     "authors": [
         {
             "name": "rfl-designer",
